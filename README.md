@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered platform for medical diagnosis, treatment planning, and specialist appointment coordination.
 
-![Demo](https://vimeo.com/1091245465?share=copy) <!-- Replace with actual demo link -->
+![Demo]([https://vimeo.com/1091245465?share=copy]) <!-- Replace with actual demo link -->
 
 ---
 
@@ -28,5 +28,5 @@ A comprehensive AI-powered platform for medical diagnosis, treatment planning, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/gautax/medical-ai-app-with-agents.git
 cd your-repo-name
