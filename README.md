@@ -74,7 +74,7 @@ Visit the running app at: http://localhost:8501
 ```
 
 📁 Project Structure
-
+```
 medical-diagnosis-app/
 ├── agents/                # CrewAI agents
 │   ├── diagnostician.py
@@ -96,7 +96,7 @@ medical-diagnosis-app/
 ├── requirements.txt       # Dependencies
 ├── setup.py               # Package setup file
 └── README.md              # Project documentation
-
+```
 🧪 Testing
 To test specific components manually:
 ```
