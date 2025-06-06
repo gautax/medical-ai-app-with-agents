@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+crewai>=0.28.8
+python-dotenv>=1.0.0
+python-docx>=0.8.11
+crewai-tools>=0.1.6 
