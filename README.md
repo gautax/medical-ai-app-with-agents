@@ -40,17 +40,17 @@ A comprehensive AI-powered platform that assists with medical diagnosis, treatme
 git clone https://github.com/gautax/medical-ai-app-with-agents.git
 cd medical-ai-app-with-agents
 ---
+```
 ### 2️⃣ Create and Activate Virtual Environment (Recommended)
-
 python -m venv venv
 # For Linux/macOS
 source venv/bin/activate
 # For Windows
 venv\Scripts\activate
----
+
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
-
+```
 ### 4️⃣ Set Up API Keys
 Create a .env file in the root directory:
 
